@@ -112,8 +112,8 @@ export default {
   'order.waiting_payment': 'お支払い待ち',
   // plan
   'plan.select_subscribe': '定期購入を選択',
-  'plan.buy': '立即订阅',
-  'plan.setting_subscribe': '配置订阅',
+  'plan.buy': '今すぐ購入',
+  'plan.setting_subscribe': '定期購入の設定',
   'plan.discount': '割引き',
   'plan.cycle': 'お支払い周期',
   'plan.have_coupon': 'キャンペーンコード',
