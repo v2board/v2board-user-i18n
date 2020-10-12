@@ -1,5 +1,24 @@
 export default {
   'request.error': 'リクエストエラー',
+  // cycle_text
+  'cycle.month_price': '月払い',
+  'cycle.quarter_price': '四半期払い',
+  'cycle.half_year_price': '半年払い',
+  'cycle.year_price': '年払い',
+  'cycle.two_year_price': '2年払い',
+  'cycle.three_year_price': '3年払い',
+  'cycle.onetime_price': '一括払い',
+  'cycle.reset_price': 'データ通信量のカウントをリセット',
+  // order_status
+  'order_status.no_paid': 'お支払い待ち',
+  'order_status.opening': '処理中',
+  'order_status.cancel': '取り消し済み',
+  'order_status.done': '済み',
+  'order_status.surplus': '控除済み',
+  // commission_status
+  'commission_status.pending_confirm': '承認待ち',
+  'commission_status.confirm': '承認済み',
+  'commission_status.done': '済み',
   // nav
   'nav.dashboard': 'ダッシュボード',
   'nav.subscribe': '定期購入',
@@ -234,5 +253,12 @@ export default {
   'withdraw_modal.alipay': 'Alipay',
   'withdraw_modal.paypal': 'Paypal',
   'withdraw_modal.usdt': 'テザー/USDT',
-  'withdraw_modal.btc': 'ビットコイン/BTC'
+  'withdraw_modal.btc': 'ビットコイン/BTC',
+  // bind_telegram
+  'bind_telegram_modal.confirm': '了解',
+  'bind_telegram_modal.title': 'Telegramの関連付けについて',
+  'bind_telegram_modal.step_1': 'ステップその1',
+  'bind_telegram_modal.step_2': 'ステップその2',
+  'bind_telegram_modal.open_telegram_search': 'Telegramを起動後に右記内容を入力しサーチ',
+  'bind_telegram_modal.send_bot_message': 'テレグラムボットへ下記内容を送信'
 }
