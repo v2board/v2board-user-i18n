@@ -19,6 +19,10 @@ export default {
   'commission_status.pending_confirm': '待确认',
   'commission_status.confirm': '已确认',
   'commission_status.done': '已完成',
+  // header
+  'header.user_center': '个人中心',
+  'header.logout': '登出',
+  'header.search': '搜索',
   // nav
   'nav.dashboard': 'ダッシュボード',
   'nav.subscribe': '定期購入',
