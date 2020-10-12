@@ -200,7 +200,7 @@ export default {
   'traffic.table_rx': 'ダウンロード',
   'traffic.table_rate': '適応レート',
   'traffic.table_total': '合計',
-  'traffic.table_total_tip': '計算公式：(UP + DOWN) x レート = 使用済みデータ通信量',
+  'traffic.table_total_tip': '計算公式：(アップロード + ダウンロード) x レート = 使用済みデータ通信量',
   'traffic.traffic_detail': 'データ通信量明細',
   'traffic.today': '本日',
   'traffic.month': '今月',
