@@ -1,5 +1,29 @@
 export default {
   'request.error': 'リクエストエラー',
+  // cycle_text
+  'cycle.month_price': '月付',
+  'cycle.quarter_price': '季付',
+  'cycle.half_year_price': '半年付',
+  'cycle.year_price': '年付',
+  'cycle.two_year_price': '两年付',
+  'cycle.three_year_price': '三年付',
+  'cycle.onetime_price': '一次性',
+  'cycle.reset_price': '重置流量包',
+  // order_status
+  'order_status.no_paid': '待支付',
+  'order_status.opening': '开通中',
+  'order_status.cancel': '已取消',
+  'order_status.done': '已完成',
+  'order_status.surplus': '已折抵',
+  // commission_status
+  'commission_status.pending_confirm': '待确认',
+  'commission_status.confirm': '已确认',
+  'commission_status.done': '已完成',
+  // ticket_status
+  'ticket_status.open': '开启',
+  'ticket_status.pending_reply': '待回复',
+  'ticket_status.pending_answer': '待答复',
+  'ticket_status.close': '关闭',
   // nav
   'nav.dashboard': 'ダッシュボード',
   'nav.subscribe': '定期購入',
@@ -234,5 +258,12 @@ export default {
   'withdraw_modal.alipay': 'Alipay',
   'withdraw_modal.paypal': 'Paypal',
   'withdraw_modal.usdt': 'テザー/USDT',
-  'withdraw_modal.btc': 'ビットコイン/BTC'
+  'withdraw_modal.btc': 'ビットコイン/BTC',
+  // bind_telegram
+  'bind_telegram_modal.confirm': '我知道了',
+  'bind_telegram_modal.title': '绑定Telegram',
+  'bind_telegram_modal.step_1': '第一步',
+  'bind_telegram_modal.step_2': '第二步',
+  'bind_telegram_modal.open_telegram_search': '打开Telegram搜索',
+  'bind_telegram_modal.send_bot_message': '向机器人发送你的'
 }
