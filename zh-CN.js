@@ -19,11 +19,6 @@ export default {
   'commission_status.pending_confirm': '待确认',
   'commission_status.confirm': '已确认',
   'commission_status.done': '已完成',
-  // ticket_status
-  'ticket_status.open': '开启',
-  'ticket_status.pending_reply': '待回复',
-  'ticket_status.pending_answer': '待答复',
-  'ticket_status.close': '关闭',
   // nav
   'nav.dashboard': '仪表盘',
   'nav.subscribe': '订阅',
