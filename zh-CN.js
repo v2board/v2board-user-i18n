@@ -35,7 +35,7 @@ export default {
   'nav.user_center': '个人中心',
   'nav.my_ticket': '我的工单',
   'nav.traffic_detail': '流量明细',
-  'nav.tutorial': '教程软件',
+  'nav.knowledge': '知识库',
   // dashboard
   'dashboard.not_bind_telegram': '还没有绑定Telegram',
   'dashboard.click_here_bind': '点击这里进行绑定',
@@ -228,8 +228,6 @@ export default {
   'traffic.today': '今日',
   'traffic.month': '本月',
   'traffic.week': '本周',
-  // tutorial
-  'tutorial.use_tutorial': '使用教程',
   // one_click_subscribe
   'one_click_subscribe.copy_success': '复制成功',
   'one_click_subscribe.copy_subscribe_url': '复制订阅地址',
@@ -264,5 +262,8 @@ export default {
   'bind_telegram_modal.step_1': '第一步',
   'bind_telegram_modal.step_2': '第二步',
   'bind_telegram_modal.open_telegram_search': '打开Telegram搜索',
-  'bind_telegram_modal.send_bot_message': '向机器人发送你的'
+  'bind_telegram_modal.send_bot_message': '向机器人发送你的',
+  // knowledge
+  'knowledge': '知识库',
+  'knowledge.last_release_date': '最后更新: {date}'
 }
