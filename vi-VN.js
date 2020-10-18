@@ -35,7 +35,7 @@ export default {
   'nav.user_center': 'Trung Tâm Kiểm Soát',
   'nav.my_ticket': 'Liên Hệ Với Chúng Tôi',
   'nav.traffic_detail': 'Chi Tiết Dung Lượng',
-  'nav.knowledge': '知识库',
+  'nav.knowledge': 'kiến thức cơ bản',
   // dashboard
   'dashboard.not_bind_telegram': 'Chưa thêm liên kếtTelegram',
   'dashboard.click_here_bind': 'Nhấp vào đây để thêm liên kết',
@@ -266,6 +266,6 @@ export default {
   'bind_telegram_modal.open_telegram_search': 'Bật Telegram tìm kiếm',
   'bind_telegram_modal.send_bot_message': 'Gửi cho bot',
   // knowledge
-  'knowledge': '知识库',
-  'knowledge.last_release_date': '最后更新: {date}'
+  'knowledge': 'kiến thức cơ bản',
+  'knowledge.last_release_date': 'cập nhật mới nhất: {date}'
 }

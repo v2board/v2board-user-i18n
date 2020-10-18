@@ -35,7 +35,7 @@ export default {
   'nav.user_center': '会員メニュー',
   'nav.my_ticket': 'お問い合わせ',
   'nav.traffic_detail': 'データ通信明細',
-  'nav.knowledge': '知识库',
+  'nav.knowledge': '知識ベース',
   // dashboard
   'dashboard.not_bind_telegram': 'Telegramは関連付けられていません',
   'dashboard.click_here_bind': 'クリックして関連付け',
@@ -266,6 +266,6 @@ export default {
   'bind_telegram_modal.open_telegram_search': 'Telegramを起動後に右記内容を入力し検索',
   'bind_telegram_modal.send_bot_message': 'テレグラムボットへ下記内容を送信',
   // knowledge
-  'knowledge': '知识库',
-  'knowledge.last_release_date': '最后更新: {date}'
+  'knowledge': '知識ベース',
+  'knowledge.last_release_date': '最新のアップデート: {date}'
 }
