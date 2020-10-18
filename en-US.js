@@ -35,7 +35,7 @@ export default {
   'nav.user_center': 'User Center',
   'nav.my_ticket': 'My Tickets',
   'nav.traffic_detail': 'Transfer Data Details',
-  'nav.tutorial': 'Tutorial',
+  'nav.knowledge': '知识库',
   // dashboard
   'dashboard.not_bind_telegram': 'No link to Telegram yet',
   'dashboard.click_here_bind': 'Please click here to link to Telegram',
@@ -264,5 +264,8 @@ export default {
   'bind_telegram_modal.step_1': 'First step',
   'bind_telegram_modal.step_2': 'Second step',
   'bind_telegram_modal.open_telegram_search': 'Open Telegram and search ',
-  'bind_telegram_modal.send_bot_message': 'Send the following command to bot'
+  'bind_telegram_modal.send_bot_message': 'Send the following command to bot',
+  // knowledge
+  'knowledge': '知识库',
+  'knowledge.last_release_date': '最后更新: {date}'
 }
