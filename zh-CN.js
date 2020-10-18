@@ -35,7 +35,7 @@ export default {
   'nav.user_center': '个人中心',
   'nav.my_ticket': '我的工单',
   'nav.traffic_detail': '流量明细',
-  'nav.knowledge': '知识库',
+  'nav.knowledge': '使用文档',
   // dashboard
   'dashboard.not_bind_telegram': '还没有绑定Telegram',
   'dashboard.click_here_bind': '点击这里进行绑定',
@@ -264,6 +264,6 @@ export default {
   'bind_telegram_modal.open_telegram_search': '打开Telegram搜索',
   'bind_telegram_modal.send_bot_message': '向机器人发送你的',
   // knowledge
-  'knowledge': '知识库',
+  'knowledge': '使用文档',
   'knowledge.last_release_date': '最后更新: {date}'
 }
