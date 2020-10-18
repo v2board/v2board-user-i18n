@@ -228,8 +228,6 @@ export default {
   'traffic.today': 'Hôm nay',
   'traffic.month': 'Tháng này',
   'traffic.week': 'Tuần này',
-  // tutorial
-  'tutorial.use_tutorial': 'Hướng dẫn sử dụng',
   // one_click_subscribe
   'one_click_subscribe.copy_success': 'Sao chép thành công',
   'one_click_subscribe.copy_subscribe_url': 'Sao chép liên kết',
@@ -267,5 +265,5 @@ export default {
   'bind_telegram_modal.send_bot_message': 'Gửi cho bot',
   // knowledge
   'knowledge': 'kiến thức cơ bản',
-  'knowledge.last_release_date': 'cập nhật mới nhất: {date}'
+  'knowledge.last_release_date': 'Lần cập nhật cuối cùng vào: {date}'
 }
