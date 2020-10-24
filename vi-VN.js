@@ -222,7 +222,7 @@ export default {
   'traffic.table_tx': 'Thực tế tải lên',
   'traffic.table_rx': 'Thực tế tải xuống',
   'traffic.table_rate': 'Bội suất',
-  'traffic.table_total': 'traffic.table_total',
+  'traffic.table_total': 'toàn bộ',
   'traffic.table_total_tip': 'Công thức : ( Thức tế tải lên + thực tế tải xuống ) x  bội suất = Dung lượng đã sử dụng',
   'traffic.traffic_detail': 'Chi tiết dung lượng',
   'traffic.today': 'Hôm nay',
