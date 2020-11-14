@@ -35,7 +35,7 @@ export default {
   'nav.user_center': 'Trung Tâm Kiểm Soát',
   'nav.my_ticket': 'Liên Hệ Với Chúng Tôi',
   'nav.traffic_detail': 'Chi Tiết Dung Lượng',
-  'nav.knowledge': 'kiến thức cơ bản',
+  'nav.knowledge': 'Kiến thức cơ bản',
   // dashboard
   'dashboard.not_bind_telegram': 'Chưa thêm liên kếtTelegram',
   'dashboard.click_here_bind': 'Nhấp vào đây để thêm liên kết',
@@ -124,7 +124,7 @@ export default {
   // profile
   'profile.user_center': 'Trung tâm kiểm soát',
   'profile.my_wallet': 'Ví tiền của tôi',
-  'profile.balance_tip': 'Sô dư tài khoản',
+  'profile.balance_tip': 'Số dư tài khoản',
   'profile.commission_balance_tip': 'Tiền hoa hồng (có thể rút)',
   'profile.wallet_component': 'Thành phần cấu tạo ví tiền',
   'profile.transfer': 'Chuyển đổi',
@@ -223,7 +223,7 @@ export default {
   'traffic.table_rx': 'Thực tế tải xuống',
   'traffic.table_rate': 'Bội suất',
   'traffic.table_total': 'Tổng dung lượng',
-  'traffic.table_total_tip': 'Công thức : ( Thức tế tải lên + thực tế tải xuống ) x  bội suất = Dung lượng đã sử dụng',
+  'traffic.table_total_tip': 'Công thức : ( Thực tế tải lên + Thực tế tải xuống ) x  Bội suất = Dung lượng đã sử dụng',
   'traffic.traffic_detail': 'Chi tiết dung lượng',
   'traffic.today': 'Hôm nay',
   'traffic.month': 'Tháng này',
@@ -232,7 +232,7 @@ export default {
   'one_click_subscribe.copy_success': 'Sao chép thành công',
   'one_click_subscribe.copy_subscribe_url': 'Sao chép liên kết',
   'one_click_subscribe.import': 'Chuyển đến',
-  'one_click_subscribe': 'Nhập chuột để đồng bộ máy chủ',
+  'one_click_subscribe': 'Nhấp chuột để đồng bộ máy chủ',
   'one_click_subscribe.copy_subscribe': 'Sao chép liên kết',
   // transfer_modal
   'transfer_modal.title': 'Tiền hoa hồng chuyển sang tài khoản của bạn',
@@ -264,6 +264,6 @@ export default {
   'bind_telegram_modal.open_telegram_search': 'Bật Telegram tìm kiếm',
   'bind_telegram_modal.send_bot_message': 'Gửi cho bot',
   // knowledge
-  'knowledge': 'kiến thức cơ bản',
+  'knowledge': 'Kiến thức cơ bản',
   'knowledge.last_release_date': 'Lần cập nhật cuối cùng vào: {date}'
 }
