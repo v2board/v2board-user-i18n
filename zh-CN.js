@@ -37,7 +37,7 @@ export default {
   'nav.traffic_detail': '流量明细',
   'nav.knowledge': '使用文档',
   // dashboard
-  'dashboard.not_bind_telegram': '还没有绑定Telegram',
+  'dashboard.not_bind_telegram': '绑定Telegram获取更多服务',
   'dashboard.click_here_bind': '点击这里进行绑定',
   'dashboard.announcement': '公告',
   'dashboard.override': '总览',
