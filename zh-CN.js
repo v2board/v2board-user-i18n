@@ -17,8 +17,9 @@ export default {
   'order_status.surplus': '已折抵',
   // commission_status
   'commission_status.pending_confirm': '待确认',
-  'commission_status.confirm': '已确认',
-  'commission_status.done': '已完成',
+  'commission_status.confirm': '发放中',
+  'commission_status.done': '已发放',
+  'commission_status.reject': '无效',
   // header
   'header.user_center': '个人中心',
   'header.logout': '登出',

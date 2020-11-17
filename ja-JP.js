@@ -19,6 +19,7 @@ export default {
   'commission_status.pending_confirm': '承認待ち',
   'commission_status.confirm': '承認済み',
   'commission_status.done': '済み',
+  'commission_status.reject': '無効',
   // header
   'header.user_center': '会員メニュー',
   'header.logout': 'ログアウト',

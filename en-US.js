@@ -17,8 +17,9 @@ export default {
   'order_status.surplus': 'Converted',
   // commission_status
   'commission_status.pending_confirm': 'Pending',
-  'commission_status.confirm': 'Confirmed',
+  'commission_status.confirm': 'Confirming',
   'commission_status.done': 'Completed',
+  'commission_status.reject': 'Invalid',
   // header
   'header.user_center': 'User Center',
   'header.logout': 'Logout',

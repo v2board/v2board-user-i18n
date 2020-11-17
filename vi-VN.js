@@ -19,6 +19,7 @@ export default {
   'commission_status.pending_confirm': 'được xác nhận',
   'commission_status.confirm': 'đã xác nhận',
   'commission_status.done': 'Hoàn thành',
+  'commission_status.reject': 'không hợp',
   // header
   'header.user_center': 'Trung tâm kiểm soát',
   'header.logout': 'đăng xuất',
