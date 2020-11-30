@@ -122,6 +122,8 @@ export default {
   'plan.order_total_amount': 'Tổng cộng',
   'plan.place_order': 'Đặt hàng',
   'plan.total': 'Tổng cộng',
+  'plan.subscribe_change_title': '订阅变更须知',
+  'plan.subscribe_change_content': '变更订阅会导致当前订阅被新订阅覆盖，请注意。',
   // profile
   'profile.user_center': 'Trung tâm kiểm soát',
   'profile.my_wallet': 'Ví tiền của tôi',
