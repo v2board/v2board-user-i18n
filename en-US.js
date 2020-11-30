@@ -122,8 +122,8 @@ export default {
   'plan.order_total_amount': 'Order Total',
   'plan.place_order': 'Order',
   'plan.total': 'Total',
-  'plan.subscribe_change_title': '订阅变更须知',
-  'plan.subscribe_change_content': '变更订阅会导致当前订阅被新订阅覆盖，请注意。',
+  'plan.subscribe_change_title': 'Subscription Change Notes',
+  'plan.subscribe_change_content': 'Note that changing a subscription causes the current subscription to be overwritten by the new subscription.',
   // profile
   'profile.user_center': 'User Center',
   'profile.my_wallet': 'My Wallet',

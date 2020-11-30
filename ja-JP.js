@@ -122,8 +122,8 @@ export default {
   'plan.order_total_amount': 'ご注文の合計金額',
   'plan.place_order': '注文&最終確認',
   'plan.total': '合計',
-  'plan.subscribe_change_title': '订阅变更须知',
-  'plan.subscribe_change_content': '变更订阅会导致当前订阅被新订阅覆盖，请注意。',
+  'plan.subscribe_change_title': '定期購入プランの変更に伴うご注意',
+  'plan.subscribe_change_content': '定期購入プランを変更されますと、既存のプランが新規プランによって上書きされます、ご注意下さい',
   // profile
   'profile.user_center': '会員メニュー',
   'profile.my_wallet': 'マイウォレット',
