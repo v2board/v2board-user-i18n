@@ -255,10 +255,6 @@ export default {
   'withdraw_modal.please_select_method': 'Please select a withdrawal method',
   'withdraw_modal.withdraw_account': 'Withdrawal Account',
   'withdraw_modal.please_enter_account': 'Please enter the withdrawal account',
-  'withdraw_modal.alipay': 'Alipay',
-  'withdraw_modal.paypal': 'PayPal',
-  'withdraw_modal.usdt': 'USDT',
-  'withdraw_modal.btc': 'Bitcoin',
   // bind_telegram
   'bind_telegram_modal.confirm': 'I got it',
   'bind_telegram_modal.title': 'Link to Telegram',

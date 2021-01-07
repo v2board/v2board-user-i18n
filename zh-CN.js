@@ -255,10 +255,6 @@ export default {
   'withdraw_modal.please_select_method': '请选择提现方式',
   'withdraw_modal.withdraw_account': '提现账号',
   'withdraw_modal.please_enter_account': '请输入提现账号',
-  'withdraw_modal.alipay': '支付宝',
-  'withdraw_modal.paypal': '贝宝(Paypal)',
-  'withdraw_modal.usdt': 'USDT',
-  'withdraw_modal.btc': '比特币',
   // bind_telegram
   'bind_telegram_modal.confirm': '我知道了',
   'bind_telegram_modal.title': '绑定Telegram',

@@ -255,10 +255,6 @@ export default {
   'withdraw_modal.please_select_method': 'お振込み先をお選びください',
   'withdraw_modal.withdraw_account': 'お振り込み先口座',
   'withdraw_modal.please_enter_account': 'お振込み先口座をご入力ください',
-  'withdraw_modal.alipay': 'Alipay',
-  'withdraw_modal.paypal': 'Paypal',
-  'withdraw_modal.usdt': 'テザー/USDT',
-  'withdraw_modal.btc': 'ビットコイン/BTC',
   // bind_telegram
   'bind_telegram_modal.confirm': '了解',
   'bind_telegram_modal.title': 'Telegramの関連付けについて',

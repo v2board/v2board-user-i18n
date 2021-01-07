@@ -255,10 +255,6 @@ export default {
   'withdraw_modal.please_select_method': 'Chọn hình thức rút tiền ',
   'withdraw_modal.withdraw_account': 'Tài khoản rút tiền',
   'withdraw_modal.please_enter_account': 'Vui lòng điền tài khoản rút  tiền',
-  'withdraw_modal.alipay': 'Alipay',
-  'withdraw_modal.paypal': 'Paypal',
-  'withdraw_modal.usdt': 'USDT',
-  'withdraw_modal.btc': 'BTC',
   // bind_telegram
   'bind_telegram_modal.confirm': 'Tôi biết',
   'bind_telegram_modal.title': 'Thêm Telegram',
