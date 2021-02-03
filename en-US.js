@@ -111,6 +111,12 @@ export default {
   'order.total': 'Total',
   'order.checkout': 'Checkout',
   'order.waiting_payment': 'Waiting for payment',
+  'order.result_opening_title': 'Opening',
+  'order.result_opening_sub_title': 'The order system is processing, please wait 1-3 minutes.',
+  'order.result_cancel_title': 'Cancelled',
+  'order.result_cancel_sub_title': 'The order has been cancelled due to overtime payment.',
+  'order.result_success_title': 'Success',
+  'order.result_success_sub_title': 'The order has been paid and opened.',
   // plan
   'plan.select_subscribe': 'Select a Subscription',
   'plan.buy': 'Subscribe now',

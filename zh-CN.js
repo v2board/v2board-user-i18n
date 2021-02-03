@@ -111,6 +111,13 @@ export default {
   'order.total': '总计',
   'order.checkout': '结账',
   'order.waiting_payment': '等待支付中',
+  'order.result_opening_title': '开通中',
+  'order.result_opening_sub_title': '订单系统正在进行处理，请稍等1-3分钟。',
+  'order.result_cancel_title': '已取消',
+  'order.result_cancel_sub_title': '订单由于超时支付已被取消。',
+  'order.result_success_title': '已完成',
+  'order.result_success_sub_title': '订单已支付并开通。',
+  
   // plan
   'plan.select_subscribe': '选择订阅',
   'plan.buy': '立即订阅',

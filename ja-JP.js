@@ -111,6 +111,12 @@ export default {
   'order.total': '合計',
   'order.checkout': 'お会計',
   'order.waiting_payment': 'お支払い待ち',
+  'order.result_opening_title': 'オープニング',
+  'order.result_opening_sub_title': '注文システムは処理中です。1〜3分お待ちください。',
+  'order.result_cancel_title': 'キャンセル',
+  'order.result_cancel_sub_title': '残業のため、注文はキャンセルされました。',
+  'order.result_success_title': '完了',
+  'order.result_success_sub_title': '注文は支払われ、開かれました。',
   // plan
   'plan.select_subscribe': '定期購入を選択',
   'plan.buy': '今すぐ購入',

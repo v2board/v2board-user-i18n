@@ -111,6 +111,12 @@ export default {
   'order.total': 'Tổng cộng',
   'order.checkout': 'Thanh toán',
   'order.waiting_payment': 'Đợi Thanh toán',
+  'order.result_opening_title': 'Khai mạc',
+  'order.result_opening_sub_title': 'Hệ thống đặt hàng đang xử lý, vui lòng đợi 1-3 phút.',
+  'order.result_cancel_title': 'Đã hủy',
+  'order.result_cancel_sub_title': 'Đơn hàng đã bị hủy do thanh toán ngoài giờ.',
+  'order.result_success_title': 'hoàn thành',
+  'order.result_success_sub_title': 'Đơn hàng đã được thanh toán và mở.',
   // plan
   'plan.select_subscribe': 'Chọn gói dịch vụ',
   'plan.buy': 'Mua ngay',
