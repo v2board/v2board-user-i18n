@@ -169,7 +169,7 @@ export default {
   'register.invite_code': '邀请码(选填)',
   'register': '注册',
   'register.back_login': '返回登入',
-  'register.tos_url': '我已阅读并同意 <a taget="_blank" href="{url}">服务条款</a>',
+  'register.tos_url': '我已阅读并同意 <a target="_blank" href="{url}">服务条款</a>',
   'register.please_agree_tos': '请同意服务条款',
   // subscribe
   'subscribe.table_name': '名称',

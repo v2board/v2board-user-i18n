@@ -77,7 +77,7 @@ export default {
   'invite.generate_code': 'Tạo mã người mời',
   'invite.detail': 'Chi tiết thiệp mời',
   'invite.copy_success': 'Sao chép thành công',
-  'register.tos_url': 'Tôi đã đọc và đồng ý <a taget="_blank" href="{url}">điều khoản dịch vụ</a>',
+  'register.tos_url': 'Tôi đã đọc và đồng ý <a target="_blank" href="{url}">điều khoản dịch vụ</a>',
   'register.please_agree_tos': 'Hãy đồng ý điều kiện dịch vụ',
   // login
   'login.email': 'Email',

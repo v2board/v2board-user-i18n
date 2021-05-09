@@ -168,7 +168,7 @@ export default {
   'register.invite_code': '招待コード(オプション)',
   'register': '新規登録',
   'register.back_login': 'ログイン画面へ',
-  'register.tos_url': '<a taget="_blank" href="{url}">サービス条項</a>を読んで同意しました',
+  'register.tos_url': '<a target="_blank" href="{url}">サービス条項</a>を読んで同意しました',
   'register.please_agree_tos': 'サービス条項に同意してください',
   // subscribe
   'subscribe.table_name': '名称',

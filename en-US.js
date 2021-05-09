@@ -168,7 +168,7 @@ export default {
   'register.invite_code': 'Invitation code (Optional)',
   'register': 'Register',
   'register.back_login': 'Back to Login',
-  'register.tos_url': 'I have read and agree to the <a taget="_blank" href="{url}">terms of service</a>',
+  'register.tos_url': 'I have read and agree to the <a target="_blank" href="{url}">terms of service</a>',
   'register.please_agree_tos': 'Please agree to the terms of service',
   // subscribe
   'subscribe.table_name': 'Name',
