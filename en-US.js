@@ -130,6 +130,8 @@ export default {
   'plan.total': 'Total',
   'plan.subscribe_change_title': 'Attention subscription changes',
   'plan.subscribe_change_content': 'Attention please, changing subscription will overwrite your current subscription.',
+  'plan.subscribe_not_renew': 'This subscription cannot be renewed',
+  'plan.choose_another_subscribe': 'Choose another subscription',
   // profile
   'profile.user_center': 'User Center',
   'profile.my_wallet': 'My Wallet',

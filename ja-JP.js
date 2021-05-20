@@ -130,6 +130,8 @@ export default {
   'plan.total': '合計',
   'plan.subscribe_change_title': '定期購入プランの変更に伴うご注意',
   'plan.subscribe_change_content': '定期購入プランを変更されますと、既存のプランが新規プランによって上書きされます、ご注意下さい',
+  'plan.subscribe_not_renew': 'この商品は契約の更新ができません',
+  'plan.choose_another_subscribe': '他の商品を選ぶ',
   // profile
   'profile.user_center': '会員メニュー',
   'profile.my_wallet': 'マイウォレット',

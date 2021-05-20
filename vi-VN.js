@@ -132,6 +132,8 @@ export default {
   'plan.total': 'Tổng cộng',
   'plan.subscribe_change_title': 'Thông báo về gói dịch vụ thay đổi',
   'plan.subscribe_change_content': 'Việc thay đổi gói dịch vụ mới sẽ khiến gói hiện tại bị ghi đè bởi đăng ký mới, xin lưu ý',
+  'plan.subscribe_not_renew': 'Không thể thay đổi bản đăng ký',
+  'plan.choose_another_subscribe': 'Chọn một sản phẩm khác',
   // profile
   'profile.user_center': 'Trung tâm kiểm soát',
   'profile.my_wallet': 'Ví tiền của tôi',
