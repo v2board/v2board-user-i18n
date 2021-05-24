@@ -274,5 +274,6 @@ export default {
   'bind_telegram_modal.send_bot_message': 'Gửi cho bot',
   // knowledge
   'knowledge': 'Kiến thức cơ bản',
-  'knowledge.last_release_date': 'Lần cập nhật cuối cùng vào: {date}'
+  'knowledge.last_release_date': 'Lần cập nhật cuối cùng vào: {date}',
+  'knowledge.copy_success' : 'Chép thành công'
 }

@@ -274,5 +274,6 @@ export default {
   'bind_telegram_modal.send_bot_message': 'Send the following command to bot',
   // knowledge
   'knowledge': 'Knowledge Base',
-  'knowledge.last_release_date': 'Last Updated: {date}'
+  'knowledge.last_release_date': 'Last Updated: {date}',
+  'knowledge.copy_success' : 'Copy succeeded'
 }

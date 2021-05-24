@@ -274,5 +274,6 @@ export default {
   'bind_telegram_modal.send_bot_message': 'テレグラムボットへ下記内容を送信',
   // knowledge
   'knowledge': '知識ベース',
-  'knowledge.last_release_date': '最終更新日: {date}'
+  'knowledge.last_release_date': '最終更新日: {date}',
+  'knowledge.copy_success' : 'コピーしました'
 }

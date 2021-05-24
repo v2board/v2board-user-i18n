@@ -275,5 +275,6 @@ export default {
   'bind_telegram_modal.send_bot_message': '向机器人发送你的',
   // knowledge
   'knowledge': '使用文档',
-  'knowledge.last_release_date': '最后更新: {date}'
+  'knowledge.last_release_date': '最后更新: {date}',
+  'knowledge.copy_success' : '复制成功'
 }
