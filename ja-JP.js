@@ -275,5 +275,22 @@ export default {
   // knowledge
   'knowledge': '知識ベース',
   'knowledge.last_release_date': '最終更新日: {date}',
-  'knowledge.copy_success' : 'コピーしました'
+  'knowledge.copy_success' : 'コピーしました',
+  // new language
+  'Dashboard': 'ダッシュボード',
+  'My subscription': 'ご利用中の定期購入',
+  'To do event': '未決の事件',
+  'There are still unpaid orders': 'まだお支払いしていない注文があります',
+  'Pay now': '即時払い',
+  'Ticket is being processed': '工票は処理中です。',
+  'View now': 'すぐに確認します',
+  'Buy subscription': '定期購入のご注文',
+  'Knowledge': '知識ベース',
+  'My order': '注文履歴',
+  'Personal Center': '会員メニュー',
+  'Flow details': 'データ通信明細',
+  'Configure subscription': '購読の設定',
+  'My invitation': '招待メニュー',
+  'Node status': 'サーバーステータス',
+  'There was no incident': '事件はなかった'
 }

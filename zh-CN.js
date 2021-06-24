@@ -276,5 +276,22 @@ export default {
   // knowledge
   'knowledge': '使用文档',
   'knowledge.last_release_date': '最后更新: {date}',
-  'knowledge.copy_success' : '复制成功'
+  'knowledge.copy_success' : '复制成功',
+  // new language
+  'Dashboard': '仪表盘',
+  'My subscription': '我的订阅',
+  'To do event': '待办事件',
+  'There are still unpaid orders': '还有没支付的订单',
+  'Pay now': '立即支付',
+  'Ticket is being processed': '条工单正在处理中',
+  'View now': '立即查看',
+  'Buy subscription': '购买订阅',
+  'Knowledge': '使用文档',
+  'My order': '我的订单',
+  'Personal Center': '个人中心',
+  'Flow details': '流量明细',
+  'Configure subscription': '配置订阅',
+  'My invitation': '我的邀请',
+  'Node status': '节点状态',
+  'There was no incident': '没有任何事件'
 }

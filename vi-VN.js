@@ -275,5 +275,22 @@ export default {
   // knowledge
   'knowledge': 'Kiến thức cơ bản',
   'knowledge.last_release_date': 'Lần cập nhật cuối cùng vào: {date}',
-  'knowledge.copy_success' : 'Chép thành công'
+  'knowledge.copy_success' : 'Chép thành công',
+  // new language
+  'Dashboard': 'Bảng',
+  'My subscription': 'Ảnh của tôi',
+  'To do event': 'Để thực hiện',
+  'There are still unpaid orders': 'Vẫn còn những mệnh lệnh không lương',
+  'Pay now': 'Trả ngay đi.',
+  'Ticket is being processed': 'Đang xử lý lệnh làm việc.',
+  'View now': 'Xem ngay',
+  'Buy subscription': 'Mua ấn bản',
+  'Knowledge': 'Sử dụng tài liệu',
+  'My order': 'Lệnh của tôi',
+  'Personal Center': 'Trung tâm cá nhân',
+  'Flow details': 'Hoa chi tiết',
+  'Configure subscription': 'Cấu hình ảnh',
+  'My invitation': 'Giấy mời của tôi',
+  'Node status': 'Không biết',
+  'There was no incident': 'Không có chuyện gì cả.'
 }
