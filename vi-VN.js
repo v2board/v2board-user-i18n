@@ -292,5 +292,6 @@ export default {
   'Configure subscription': 'Cấu hình ảnh',
   'My invitation': 'Giấy mời của tôi',
   'Node status': 'Không biết',
-  'There was no incident': 'Không có chuyện gì cả.'
+  'There was no incident': 'Không có chuyện gì cả.',
+  'Copied': 'Nghe'
 }

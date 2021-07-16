@@ -293,5 +293,6 @@ export default {
   'Configure subscription': '配置订阅',
   'My invitation': '我的邀请',
   'Node status': '节点状态',
-  'There was no incident': '没有任何事件'
+  'There was no incident': '没有任何事件',
+  'Copied': '复制成功'
 }

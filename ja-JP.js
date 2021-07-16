@@ -292,5 +292,6 @@ export default {
   'Configure subscription': '購読の設定',
   'My invitation': '招待メニュー',
   'Node status': 'サーバーステータス',
-  'There was no incident': '事件はなかった'
+  'There was no incident': '事件はなかった',
+  'Copied': 'コピーしました'
 }
