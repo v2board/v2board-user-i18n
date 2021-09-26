@@ -275,5 +275,6 @@ export default {
   // knowledge
   'knowledge': 'Knowledge Base',
   'knowledge.last_release_date': 'Last Updated: {date}',
-  'knowledge.copy_success' : 'Copy succeeded'
+  'knowledge.copy_success' : 'Copy succeeded',
+  'Reset flow after {reset_day} day': 'Reset flow after {reset_day} day'
 }
