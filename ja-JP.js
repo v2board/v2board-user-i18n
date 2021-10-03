@@ -49,7 +49,7 @@ export default {
   'dashboard.add_subscribe': '定期購入の追加購入',
   'dashboard.not_expire': '無期限',
   'dashboard.expired': '期限切れ',
-  'dashboard.subscribe_info': 'ご利用期限 {date} まで，期限まであと {day} 日 ',
+  'dashboard.subscribe_info': 'ご利用期限 {date} まで，期限まであと {day} 日。',
   'dashboard.traffic_info': '使用済み {used} / 合計 {total}',
   'dashboard.view_subscribe': 'サーバーステータス',
   'dashboard.renew': '継続料金のお支払い',
@@ -308,5 +308,6 @@ export default {
   'Creation time': '作成時間',
   'My tickets': 'マイチケット',
   'Tickets history': 'チケット履歴',
-  'Reset flow after {reset_day} day': '、{reset_day} 日後にリセットされます'
+  'Reset flow after {reset_day} day': '{reset_day} 日後にリセットされます',
+  'Due on {date}, {day} days before expiration': '{date} の期限が切れるまで、あと {day} 日あります。'
 }

@@ -309,6 +309,7 @@ export default {
   'Creation time': '创建时间',
   'My tickets': '我的工单',
   'Tickets history': '工单历史',
-  'Reset flow after {reset_day} day': '，{reset_day} 日后重置流量',
-  'Node name': '节点名称'
+  'Reset flow after {reset_day} day': '{reset_day} 日后重置流量',
+  'Node name': '节点名称',
+  'Due on {date}, {day} days before expiration': '于 {date} 到期，距离到期还有 {day} 天。'
 }

@@ -276,5 +276,6 @@ export default {
   'knowledge': 'Knowledge Base',
   'knowledge.last_release_date': 'Last Updated: {date}',
   'knowledge.copy_success' : 'Copy succeeded',
-  'Reset flow after {reset_day} day': 'Reset flow after {reset_day} day'
+  'Reset flow after {reset_day} day': 'Reset flow after {reset_day} day',
+  'Due on {date}, {day} days before expiration': 'Due on {date}, {day} days before expiration. '
 }

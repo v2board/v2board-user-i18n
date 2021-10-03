@@ -308,5 +308,6 @@ export default {
   'Creation time': 'Đã tạo',
   'My tickets': 'Nhiệm vụ của tôi',
   'Tickets history': 'Lịch sử trật tự công việc',
-  'Reset flow after {reset_day} day': 'Sau ngày {reset_day} dung lượng sẽ được làm mới.'
+  'Reset flow after {reset_day} day': 'Sau ngày {reset_day} dung lượng sẽ được làm mới.',
+  'Due on {date}, {day} days before expiration': 'Năm {date} đến hạn，Thời gian đến hạn còn {day} ngày.'
 }
